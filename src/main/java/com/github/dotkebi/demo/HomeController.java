@@ -2,7 +2,7 @@ package com.github.dotkebi.demo;
 
 import an.awesome.pipelinr.Pipeline;
 import com.github.dotkebi.demo.model.HomeModel;
-import com.github.dotkebi.demo.query.HomeModelQuery;
+import com.github.dotkebi.demo.mediator.query.HomeModelQuery;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

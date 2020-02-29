@@ -1,4 +1,4 @@
-package com.github.dotkebi.demo.query;
+package com.github.dotkebi.demo.mediator.query;
 
 import an.awesome.pipelinr.Command;
 import com.github.dotkebi.demo.model.HomeModel;
